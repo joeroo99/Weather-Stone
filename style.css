@@ -11,10 +11,10 @@
 }
 
 html {
-  background: url('../assets/background-image.jpeg');
+  background: url('assets/background-image.jpeg');
   background:linear-gradient(
     rgba(0, 0, 0, 0.33)),
-    url('../assets/background-image.jpg');
+    url('assets/background-image.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom center;
